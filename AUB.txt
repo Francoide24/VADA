@@ -1,0 +1,187 @@
+{
+  "analisis": {
+    "contexto_de_anuncios_exitosos": "Basado en el Top 5 de AUB con mayor CTR, identificando elementos en común.",
+    "escenas": [
+      {
+        "numero_escena": 1,
+        "descripcion": "Apertura humorística/frustrante con botellones. Presenta el PROBLEMA.",
+        "timestamp_inicio": "00:00",
+        "timestamp_fin": "00:03",
+        "personajes": [
+          {
+            "nombre": "Persona_principal",
+            "descripcion": "A menudo aparece luchando con un botellón (carga, derrames, etc.).",
+            "emociones": ["frustración", "esfuerzo"]
+          }
+        ],
+        "emociones_principales": ["frustración", "cansancio"],
+        "impacto_musical": {
+          "existente": "si",
+          "tono_emocional": "cómico/irónico",
+          "instrumentacion": [
+            "melodía electrónica con ritmos ligeros",
+            "efectos de sonido (choques, golpes suaves, etc.)"
+          ]
+        },
+        "texto_en_pantalla": [
+          "¿AÚN USAS BOTELLONES?",
+          "¿EN SERIO?"
+        ],
+        "colores_usados": [
+          "amarillo",
+          "naranja",
+          "gris",
+          "blanco"
+        ],
+        "proposito": "Generar un impacto inicial mostrando el problema de los botellones con humor."
+      },
+      {
+        "numero_escena": 2,
+        "descripcion": "Transición breve que refuerza la necesidad de CAMBIO/EVOLUCIÓN.",
+        "timestamp_inicio": "00:03",
+        "timestamp_fin": "00:06",
+        "personajes": [
+          {
+            "nombre": "Personaje_secundario",
+            "descripcion": "Puede aparecer sorprendido, mirando la situación con ironía.",
+            "emociones": ["sorpresa", "incredulidad"]
+          }
+        ],
+        "emociones_principales": ["sorpresa", "cómico"],
+        "impacto_musical": {
+          "existente": "si",
+          "tono_emocional": "irónico",
+          "instrumentacion": [
+            "efectos de transición",
+            "melodía electrónica suave"
+          ]
+        },
+        "texto_en_pantalla": [
+          "EVOLUCIONA",
+          "CÁMBIATE A MAIHUE"
+        ],
+        "colores_usados": ["blanco", "gris", "azul"],
+        "proposito": "Marcar el contraste entre el método antiguo y la solución que está por venir."
+      },
+      {
+        "numero_escena": 3,
+        "descripcion": "Muestra el DISPENSADOR Maihue en uso, enfatizando BENEFICIOS y CTA parcial.",
+        "timestamp_inicio": "00:06",
+        "timestamp_fin": "00:10",
+        "personajes": [
+          {
+            "nombre": "Persona_usa_dispensador",
+            "descripcion": "Sirve agua cómodamente, con gesto de alivio.",
+            "emociones": ["satisfacción"]
+          }
+        ],
+        "emociones_principales": ["satisfacción", "alivio"],
+        "impacto_musical": {
+          "existente": "si",
+          "tono_emocional": "alegre y relajante",
+          "instrumentacion": [
+            "melodía electrónica con ritmo más suave",
+            "efectos de agua"
+          ]
+        },
+        "texto_en_pantalla": [
+          "PLANES DESDE $16.900*",
+          "SIN PEDIDOS",
+          "SIN RECARGAS",
+          "100% SUSTENTABLE (en algunos)",
+          "AGUA ILIMITADA"
+        ],
+        "colores_usados": [
+          "blanco",
+          "azul",
+          "gris"
+        ],
+        "proposito": "Mostrar la SOLUCIÓN y algunos argumentos principales (Comodidad, Agua ilimitada, etc.)."
+      },
+      {
+        "numero_escena": 4,
+        "descripcion": "Cierre con LOGO, CTA definitiva y reforzar 'LA MEJOR AGUA'.",
+        "timestamp_inicio": "00:10",
+        "timestamp_fin": "00:15",
+        "personajes": [],
+        "emociones_principales": [],
+        "impacto_musical": {
+          "existente": "si",
+          "tono_emocional": "positivo/relajante",
+          "instrumentacion": [
+            "melodía electrónica suave",
+            "posible efecto agua"
+          ]
+        },
+        "texto_en_pantalla": [
+          "PIDE UNA PRUEBA GRATIS",
+          "LA MEJOR AGUA",
+          "MAIHUE"
+        ],
+        "colores_usados": ["blanco", "azul"],
+        "proposito": "Rematar con la marca y un llamado a la acción claro."
+      }
+    ],
+    "emociones_globales": [
+      "frustración_inicial",
+      "sorpresa_cómica",
+      "satisfacción_final"
+    ],
+    "impacto_musical_global": {
+      "existente": "si",
+      "tono_emocional": "inicia cómico/irónico, evoluciona a alegre/relajante",
+      "instrumentacion": [
+        "melodía electrónica con efectos",
+        "pequeños golpes o sonidos cómicos",
+        "efectos de agua (en escenas finales)"
+      ]
+    },
+    "analisis_argumentos_comerciales": [
+      {
+        "timestamp": "00:00-00:03",
+        "argumento": "Evolución",
+        "contexto": "Suele aparecer apenas se contrasta el botellón vs el dispensador. '¿en serio?' + 'Evoluciona'."
+      },
+      {
+        "timestamp": "00:03-00:06",
+        "argumento": "Diseño y Moderno",
+        "contexto": "Aparece poco después; se resalta la 'modernidad' del dispensador al presentarlo.",
+        "nota_orden": "En top 5, se ve casi al mismo tiempo que 'Comodidad y Prestigio'."
+      },
+      {
+        "timestamp": "00:05-00:07",
+        "argumento": "Comodidad y Prestigio",
+        "contexto": "Asociado a la facilidad de uso, cero recargas, idea de upgrade. A menudo junto a 'Diseño y Moderno'."
+      },
+      {
+        "timestamp": "00:06-00:10",
+        "argumento": "Agua purificada ilimitada",
+        "contexto": "Refuerza que no se necesita recargar ni pedir botellones; se menciona 'ilimitada'."
+      },
+      {
+        "timestamp": "00:07-00:10",
+        "argumento": "Mejor Sabor o Salud y Bienestar",
+        "contexto": "Cuando se alude a 'La mejor agua', 'Más salud'. Aparece en la parte media-final del anuncio."
+      }
+    ],
+    "argumentos_no_utilizados": [
+      "Mantención sin costo adicional",
+      "Sostenibilidad (en algunos aparece, pero no siempre)",
+      "Evolución tardía (En la mayoría ocurre casi en la apertura, no al final)"
+    ],
+    "narrativa_adicional": [
+      "Casi todos los videos top duran ~15-17s. Aprovechan humor o ironía al inicio, seguido de un rápido contraste con la solución Maihue.",
+      "La música suele iniciar con matices cómicos y luego se torna relajante cuando presentan el dispensador."
+    ],
+    "conclusiones_relevantes": [
+      "El ORDEN de los argumentos es clave: Mostrar primero la idea de 'Evolucionar' y luego enfatizar 'Diseño/Moderno' y 'Comodidad'. 'Agua ilimitada' aparece junto a planes y precio.",
+      "Agregar pronto un CTA o referencia de precio (antes de los 10 segundos) incrementa la efectividad.",
+      "La frustración inicial funciona como 'gancho' para resaltar el alivio y satisfacción final."
+    ],
+    "observaciones": [
+      "Estos elementos se basan en los 5 anuncios con mayor CTR, pero no excluyen otras variantes creativas.",
+      "Mantener la duración corta favorece el engagement.",
+      "Incluir humor y una rápida contraposición problema/solución parece influir de manera positiva."
+    ]
+  }
+}
