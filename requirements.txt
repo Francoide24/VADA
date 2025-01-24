@@ -1,11 +1,7 @@
 streamlit
 google-generativeai
-os
-time
-json
 httpx
 google-auth
 google-cloud-bigquery
 google-api-core
 python-dotenv
-logging
